@@ -1,5 +1,8 @@
 .jq-template.awk
 
-#Ignorr os ficheiros abaixos
-.json
-.sh
+#Ignorar os ficheiros abaixos
+*.json
+*.sh
+
+#ignorar a pasta php7.4
+/7.4
