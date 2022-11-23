@@ -1,1 +1,5 @@
 .jq-template.awk
+
+#Ignorr os ficheiros abaixos
+.json
+.sh
